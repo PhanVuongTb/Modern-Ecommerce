@@ -4,6 +4,8 @@ npm install express dotenv nodemon mongoose jsonwebtoken express-validator body-
 --Client:
 npx create-react-app ./
 npm install axios react-router-dom
+npm install react-icons --save
+npm install --save react-toastify
 
 --tailwindcss:
 npm install -D tailwindcss
