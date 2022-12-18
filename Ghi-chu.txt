@@ -1,0 +1,10 @@
+--Server:
+npm install express dotenv nodemon mongoose jsonwebtoken express-validator body-parser cookie-parser bcryptjs
+
+--Client:
+npx create-react-app ./
+npm install axios react-router-dom
+
+--tailwindcss:
+npm install -D tailwindcss
+npx tailwindcss init
